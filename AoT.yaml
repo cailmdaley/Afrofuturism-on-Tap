@@ -1,0 +1,27 @@
+to: revealjs
+input-file : AoT_slides.md
+output-file : AoT_slides.html
+
+template: revealjs_template.html
+css:
+    - cail.css?v=1
+
+slide-level: 2
+
+metadata:
+    title: AoT
+    author: Cail Daley
+
+standalone:   true
+# self-contained:   true
+
+variables:
+    # theme_url: ivory.css
+    revealjs-url: https://unpkg.com/reveal.js@^4/
+    theme: night
+    width:  1600
+    height: 900
+    margin: 0.05
+    slideNumber: true
+    pdfSeparateFragments : false
+    pdfMaxPagesPerSlide : 1
