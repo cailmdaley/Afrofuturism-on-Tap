@@ -1,6 +1,70 @@
 
 # Intros
 
+
+## A New Era in Space Exploration
+
+
+::: {.columns}
+:::::: {.column width=70%}
+
+#### NASA's [Moon to Mars](https://www.nasa.gov/topics/moon-to-mars/overview)
+
+- Returning to the moon in 2024! 
+    - first time since Apollo 17 in 1972 
+- Emphasis on: 
+    - public-*private* partnership 
+    - *sustained* human presence
+
+- Mars is on the horizon...
+    - US, UAE, China missions launching this year
+
+- Global space industry could be worth up to $1 trillion by 2040
+
+
+::::::
+:::::: {.column width=30%}
+
+![](images/nasa_partners.png){.nopad}
+
+![](https://images.theconversation.com/files/348405/original/file-20200720-92332-175tqup.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop){.nopad}
+
+::: {.credit style="bottom:50%; right:5%;"}
+MITSUBISHI HEAVY INDUSTRIES HAND/EPA
+:::
+
+::::::
+:::
+
+## Today's NASA Propaganda {.scrollable}
+
+::: {.columns}
+:::::: {.column width=50%}
+
+![](https://mars.nasa.gov/files/resources/posters/P01-Explorers-Wanted-NASA-Recruitment-Poster-600x.jpg)
+
+![](https://mars.nasa.gov/files/resources/posters/P02-Work-The-Night-Shift-NASA-Recruitment-Poster-600x.jpg)
+
+![](https://mars.nasa.gov/files/resources/posters/P04-Surveyors-Wanted-NASA-Recruitment-Poster-600x.jpg)
+
+![](https://mars.nasa.gov/files/resources/posters/P06-Technicians-Wanted-NASA-Recruitment-Poster-600x.jpg)
+
+
+::::::
+:::::: {.column width=50%}
+
+![](https://mars.nasa.gov/files/resources/posters/P08-We-Need-You-NASA-Recruitment-Poster-600x.jpg)
+
+![](https://mars.nasa.gov/files/resources/posters/P03-Farmers-Wanted-NASA-Recruitment-Poster-600x.jpg)
+
+![](https://mars.nasa.gov/files/resources/posters/P05-Teach-On-Mars-NASA-Recruitment-Poster-600x.jpg)
+
+![](https://mars.nasa.gov/files/resources/posters/P07-Some-User-Assembly-Required-NASA-Recruitment-Poster-600x.jpg)
+
+::::::
+:::
+
+
 ## The Pale Blue Dot
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png){style="margin:0"}
@@ -144,3 +208,5 @@ Carl Sagan's *The Pale Blue Dot*. Library of Congress.
 ##
 
 - https://www.youtube.com/watch?v=iQjgprCVrcQ
+
+# Extra

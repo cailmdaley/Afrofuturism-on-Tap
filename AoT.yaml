@@ -1,6 +1,6 @@
 to: revealjs
 input-file : AoT_slides.md
-output-file : AoT_slides.html
+output-file : index.html
 
 template: revealjs_template.html
 css:
