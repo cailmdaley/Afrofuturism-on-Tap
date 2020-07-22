@@ -16,9 +16,9 @@ standalone:   true
 # self-contained:   true
 
 variables:
-    # theme_url: ivory.css
+    theme_url: night.css
+    # theme: white
     revealjs-url: https://unpkg.com/reveal.js@^4/
-    theme: night
     width:  1600
     height: 900
     margin: 0.05

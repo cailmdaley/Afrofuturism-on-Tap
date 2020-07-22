@@ -1,14 +1,38 @@
 
-# Intros
+# Space in the Future
 
+## A New Era?
 
-## A New Era in Space Exploration
+::: {.columns}
+:::::: {.column width=30%}
+![[SpaceX via Getty Images]{.credit}](https://observer.com/wp-content/uploads/sites/2/2020/06/GettyImages-1216521439.jpg)
+::::::
+:::::: {.column width=30%}
+![[SpaceX]{.credit}](https://mk0spaceflightnoa02a.kinstacdn.com/wp-content/uploads/2020/05/EYvN3ynVcAETZUx.jpeg)
+::::::
+:::
 
 
 ::: {.columns}
-:::::: {.column width=70%}
+:::::: {.column width=50%}
+NASA's [Moon to Mars](https://www.nasa.gov/topics/moon-to-mars/overview) Program
 
-#### NASA's [Moon to Mars](https://www.nasa.gov/topics/moon-to-mars/overview)
+- Back to the moon by 2024
+    - *sustainable* exploration by 2030
+    - testbed for Mars mission
+
+::::::
+:::::: {.column width=50%}
+![[NASA]{.credit}](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/phase01-gateway-2024_00003_1.jpg?itok=cP4MfG){width=12em}
+::::::
+:::
+
+::: {.fragment .grow}
+Space could be a $1 trillion industry by 2040!
+:::
+    
+
+::: notes
 
 - Returning to the moon in 2024! 
     - first time since Apollo 17 in 1972 
@@ -21,48 +45,66 @@
 
 - Global space industry could be worth up to $1 trillion by 2040
 
-
-::::::
-:::::: {.column width=30%}
-
-![](images/nasa_partners.png){.nopad}
-
-![](https://images.theconversation.com/files/348405/original/file-20200720-92332-175tqup.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop){.nopad}
-
-::: {.credit style="bottom:50%; right:5%;"}
-MITSUBISHI HEAVY INDUSTRIES HAND/EPA
 :::
 
-::::::
-:::
 
-## Today's NASA Propaganda {.scrollable}
+## Inspiring The Next Generation {.scrollable}
 
 ::: {.columns}
-:::::: {.column width=50%}
-
+:::::: {.column width=29%}
 ![](https://mars.nasa.gov/files/resources/posters/P01-Explorers-Wanted-NASA-Recruitment-Poster-600x.jpg)
 
-![](https://mars.nasa.gov/files/resources/posters/P02-Work-The-Night-Shift-NASA-Recruitment-Poster-600x.jpg)
-
 ![](https://mars.nasa.gov/files/resources/posters/P04-Surveyors-Wanted-NASA-Recruitment-Poster-600x.jpg)
-
-![](https://mars.nasa.gov/files/resources/posters/P06-Technicians-Wanted-NASA-Recruitment-Poster-600x.jpg)
-
-
 ::::::
-:::::: {.column width=50%}
+:::::: {.column width=58%}
 
+::::::::: {.columns}
+:::::::::::: {.column width=50%}
 ![](https://mars.nasa.gov/files/resources/posters/P08-We-Need-You-NASA-Recruitment-Poster-600x.jpg)
 
 ![](https://mars.nasa.gov/files/resources/posters/P03-Farmers-Wanted-NASA-Recruitment-Poster-600x.jpg)
+::::::::::::
+:::::::::::: {.column width=50%}
+![](https://mars.nasa.gov/files/resources/posters/P02-Work-The-Night-Shift-NASA-Recruitment-Poster-600x.jpg)
 
-![](https://mars.nasa.gov/files/resources/posters/P05-Teach-On-Mars-NASA-Recruitment-Poster-600x.jpg)
-
-![](https://mars.nasa.gov/files/resources/posters/P07-Some-User-Assembly-Required-NASA-Recruitment-Poster-600x.jpg)
+![](https://mars.nasa.gov/files/resources/posters/P06-Technicians-Wanted-NASA-Recruitment-Poster-600x.jpg)
+::::::::::::
+:::::::::
 
 ::::::
 :::
+
+::: notes
+- Clearly, the (motivating) agenda is colonization
+- next generation called to be technicians, teachers, farmers on mars
+:::
+
+
+
+## A New Colony?
+
+::: {.columns}
+:::::: {.column width=55%, style="margin-top:1.5em"}
+What would we do on Mars/the Moon?
+
+- Scientific Research
+- Resource Extraction
+- Habitation
+::::::
+:::::: {.column width=45%}
+![[NASA SEArch+/Apis Cor]{.credit}](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/spacexarch_final.jpg)
+::::::
+:::
+
+
+
+::: {style="font-size:0.7em"}
+> [S]pace exploration is something that we all take part in... We have to think about the way we talk about who goes to space—who’s included in the conversation in who’s not. One of the fundamental things to do is just include [those normally left out of these discussions] in the conversation in a real way, such that they’re actually listened to.
+> --- Lucianne Walkowicz, NASA/Library of Congress Chair in Astrobiology
+:::
+
+
+
 
 
 ## The Pale Blue Dot

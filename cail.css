@@ -14,11 +14,6 @@
     height:100%;
 }
 
-.credit {
-    position:absolute;
-    font-size:0.25em;
-    text-align: left;
-}
 
 .scrollable {
     bottom: 0px;
@@ -28,4 +23,29 @@
 
 .nopad {
     margin: 0
+}
+
+
+.credit {
+    font-size: 0.6em;
+    position: relative;
+    display: block;
+    text-align: right;
+}
+
+.reveal img {
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+figure {
+    display: table;  /* ADD Me */
+    margin: 0 auto;  /* ADD Me */
+    padding: 10px 10px;
+}
+
+figcaption {
+    font-size: 0.5em;
+    padding-bottom: 0.5em;
+    display: block;
 }
