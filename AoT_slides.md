@@ -4,7 +4,7 @@ author: Cail Daley
 date: Astronomy on Tap---July 23, 2020
 ---
 
-# Space in the Future
+# Space-Travel in the (Near?) Future
 
 
 --------------------------------------------------------------------------------
@@ -29,6 +29,7 @@ NASA's [Moon to Mars](https://www.nasa.gov/topics/moon-to-mars/overview) Program
 
 - Back to the moon by 2024
     - *sustainable* exploration by 2030
+    - public-*private* partnership 
     - testbed for Mars mission
 
 ::::::
@@ -49,7 +50,6 @@ Space could be a $1 trillion industry by 2040!
 - Returning to the moon in 2024! 
     - first time since Apollo 17 in 1972 
 - Emphasis on: 
-    - public-*private* partnership 
     - *sustained* human presence
 
 - Mars is on the horizon...
@@ -80,16 +80,18 @@ Space could be a $1 trillion industry by 2040!
 :::::::::::: {.column width=50%}
 ![](https://mars.nasa.gov/files/resources/posters/P02-Work-The-Night-Shift-NASA-Recruitment-Poster-600x.jpg)
 
-![](https://mars.nasa.gov/files/resources/posters/P06-Technicians-Wanted-NASA-Recruitment-Poster-600x.jpg)
+![](https://mars.nasa.gov/files/resources/posters/P05-Teach-On-Mars-NASA-Recruitment-Poster-600x.jpg)
 ::::::::::::
 :::::::::
 
 ::::::
 :::
 
+Credit: NASA's [Mars Exploration Program](https://mars.nasa.gov/multimedia/resources/mars-posters-explorers-wanted/)
+
 ::: notes
-- Clearly, the (motivating) agenda is colonization
 - next generation called to be technicians, teachers, farmers on mars
+- Clearly, the (motivating) agenda is colonization
 :::
 
 
@@ -100,7 +102,7 @@ Space could be a $1 trillion industry by 2040!
 ::: {.columns}
 :::::: {.column width=50%}
 
-What would we do on Mars/the Moon?
+What would we do on Mars?
 
 ![[NASA SEArch+/Apis Cor]{.credit}](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/spacexarch_final.jpg)
 
@@ -109,7 +111,9 @@ Research? Mining? Habitation?
 ::::::
 :::::: {.column width=50%}
 
-::: {style="font-size:0.8em; margin-top:3.15em;" }
+Decolonizing Mars
+
+::: {style="font-size:0.8em; margin-top:0.9em;" }
 > There's a matter of inclusion---space exploration is something that we all take part in.  
 :::
 
@@ -125,19 +129,19 @@ Research? Mining? Habitation?
 ::::::
 :::
 
-
 ::::::
 :::
 
 
 
-
-
 ::: notes
-> There’s a matter of inclusion—space exploration is something that we all take part in. That’s true of public missions and not private companies. Their aims are often different from what people think about. We have to think about the way we talk about who goes to space—who’s included in the conversation in who’s not. One of the fundamental things to do is just include [those normally left out of these discussions] in the conversation in a real way, such that they’re actually listened to.
+
+- Some of the reasons I have heard...
+- same agenda as previous colonial project
+
+
+> There’s a matter of inclusion—space exploration is something that we all take part in. We have to think about the way we talk about who goes to space—who’s included in the conversation in who’s not. One of the fundamental things to do is just include [those normally left out of these discussions] in the conversation in a real way, such that they’re actually listened to.
 :::
-
-
 
 
 
@@ -171,9 +175,15 @@ Research? Mining? Habitation?
 ::::::
 :::
 
+::: notes
+- Looked back to 50's sci-fi pulp fiction art (example: arriving at mars)
+- Selected photos with people in them
+- If I were growing up in the 50/60s & were not white, would not think space is for me
+:::
+
+
 --------------------------------------------------------------------------------
 
-## {data-background-iframe="https://archive.org/embed/CMP306_Reflections.wmv&autoplay=1&start=826&end=830"}
 
 ## The NASA Art Program
 
@@ -186,6 +196,15 @@ Research? Mining? Habitation?
 ![[Norman Rockwell, 1965]{.credit}](https://live.staticflickr.com/3703/8972300105_08530cae95_c.jpg)
 ::::::
 :::
+
+::: notes
+- Artist-in residency program
+- Norman Rockwell, Andy Warhol, etc.
+- But one artist was rejected
+:::
+
+
+--------------------------------------------------------------------------------
 
 ## An Opportunity Missed {.scrollable}
 
@@ -250,34 +269,57 @@ A pioneer of Jazz:
 :::
 
 - Alien Encounter was years before depictions of flying saucers and alien abductions (if chronologically   accurate)
+
+- Cede the floor to Sun Ra, speak for himself! (1974 space is the place)
+- Two clips: opening scene, then his appearance & speech to a black community center
 :::
 
 ## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=108&end=185&autoplay=1&rel=0"}
 
-## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=1345&autoplay=1"}
+## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=1405&autoplay=1"}
+
+## Parliament-Funkadelic
 
 
-# Feel Good Ending
+::: {.columns}
+:::::: {.column width=41%}
+![[\ ]{.credit}](https://images-na.ssl-images-amazon.com/images/I/91H5uzqlvgL._SL1500_.jpg)
+::::::
+:::::: {.column width=50%}
+![[Bruce W. Talamon © 2018 All Rights Reserved]{.credit}](https://storage.googleapis.com/assets-pam-blog/2020/02/3f72d1d9-parliament-funkadelics-george-clinton-chocolate-city.jpg)
+::::::
+:::
 
---------------------------------------------------------------------------------
+::: notes
+> “Once we did Chocolate City—putting black people in situations they have never been in [like the White House], and it worked, I knew I had to find another place for black people to be. And space was that place… Put [black people] in places that you don’t usually see ’em. And nobody has seen ’em on no spaceships! Once you seen ’em sittin’ on spaceship like it was a Cadillac then it was funny, cool.”
+:::
+
+
+## The Mothership
+
+::: {.columns}
+:::::: {.column width=63%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/P-Funk_mothership_at_NMAAHC.jpg/1200px-P-Funk_mothership_at_NMAAHC.jpg)
+::::::
+:::::: {.column width=37%}
+![George Clinton](https://blackmusicscholar.com/wp-content/uploads/2019/04/george-clinton-star-child.jpg)
+::::::
+:::
+
+
+# Today
+
 
 ## Space Agencies Follow Suit
 
-::: {.fragment .current-visible .preload}
 ::: {.columns}
 :::::: {.column width=50%}
 ![[Rocosmos]{.credit} Arnaldo Tamayo Méndez (1980)](https://www.roscosmos.ru/media/gallery/big/26625/5119043683.jpg)
 ::::::
 :::::: {.column width=50%}
 ![[NASA]{.credit} Guion Stewart Bluford (1983)](https://upload.wikimedia.org/wikipedia/commons/d/d9/Bluford_on_Treadmill_-_GPN-2000-001078.jpg)
-
 ::::::
 :::
-:::
-
-
-
-![[Robert Markowitz, NASA]{.credit} Leland Melvin (2008)](https://upload.wikimedia.org/wikipedia/commons/8/80/NASA_astronaut_Leland_D._Melvin_with_his_dogs_Jake_and_Scout.jpg){.fragment width=20em}
 
 ##
 
@@ -315,22 +357,48 @@ A pioneer of Jazz:
 :::
 
 
+# Keep Exploring!
+
+All free on YouTube:
+
+::: {.columns}
+:::::: {.column width=50%}
+
+Sun Ra:
+
+- Space is the Place [movie](https://www.youtube.com/watch?v=bCalqwsicls)
+- Sun Ra---A Joyful Noise [documentary](https://www.youtube.com/watch?v=7Esmjx8eVcE)
+- Space is the Place [song](https://www.youtube.com/watch?v=bCalqwsicls)
+- Sleeping Beauty [album](https://www.youtube.com/watch?v=Ipohbylz7Z4)
+
+::::::
+:::::: {.column width=50%}
+
+P-Funk:
+
+- Landing of the Mothership! [live](https://www.youtube.com/watch?time_continue=386&v=uQFGkGk4PSc&feature=emb_title)
+- Mothership Connection [album](https://www.youtube.com/watch?v=ZyJzylk8d_M&list=PL8EtWTVglL0FPoGb-CiZK7DY6lT9rQKHZ)
+- Chocolate City [song](https://www.youtube.com/watch?v=TdDhV1U9B2I)
+- P-Funk's SuperHeros [website](http://lodownmagazine.com/features/pedro-bell)
+
+::::::
+:::
 
 
 
+
+
+# Extra
 
 --------------------------------------------------------------------------------
 
 ## Astro Black
 
-![](https://f4.bcbits.com/img/a2858217034_10.jpg){width=40% .fragment .preload .current-visible}
-
-![](https://f4.bcbits.com/img/a2858217034_10.jpg){width=20% .fragment .current-visible}
+![](https://f4.bcbits.com/img/a2858217034_10.jpg){width=40%}
 
 
 
-
-<!-- ## {data-background-iframe="https://www.youtube.com/embed/AMMWNwVhq5k?start=141&autoplay=1"} -->
+## {data-background-iframe="https://www.youtube.com/embed/AMMWNwVhq5k?start=141&autoplay=1"}
 
 ## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=4654&autoplay=1"}
 
@@ -356,7 +424,7 @@ A pioneer of Jazz:
 
 > In tomorrow’s world, men will not need artificial instruments such as jets and space ships. In the world of tomorrow, the new man will ‘think’ the place he wants to go, then his mind will take him there.
 
-# Lee "Scratch" Perry
+## Lee "Scratch" Perry
 
 ## {.scrollable}
 
@@ -367,7 +435,7 @@ A pioneer of Jazz:
 ## {data-background-iframe="https://www.youtube.com/embed/y651C7aNXRc?&start=205&autoplay=1"}
 
 
-# George Clinton
+## George Clinton
 
 ##
 
@@ -385,16 +453,12 @@ A pioneer of Jazz:
 
 ![](https://highfidelityla.com/covers/big/R-560981-1245917606.jpeg)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/P-Funk_mothership_at_NMAAHC.jpg/1200px-P-Funk_mothership_at_NMAAHC.jpg)
 
 ![](http://lodownmagazine.com/sites/default/files/styles/large/public/content/file/nner-cover2.jpg?itok=IuZTUJ8t)
 
 ##
 
 - https://www.youtube.com/watch?v=iQjgprCVrcQ
-
-# Extra
-
 
 ## The Pale Blue Dot
 
@@ -419,3 +483,6 @@ Carl Sagan's *The Pale Blue Dot*. Library of Congress.
 ![Political Science](https://www.nap.edu/openbook/13227/xhtml/images/p-35-1.jpg)
 
 ![](https://archive.org/download/MSFC-0100727/0100727.jpg)
+
+
+## {data-background-iframe="https://archive.org/embed/CMP306_Reflections.wmv&autoplay=1&start=826&end=830"}
