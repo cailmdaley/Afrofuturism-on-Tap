@@ -1,5 +1,6 @@
-
 # Space in the Future
+
+--------------------------------------------------------------------------------
 
 ## A New Era?
 
@@ -11,6 +12,7 @@
 ![[SpaceX]{.credit}](https://mk0spaceflightnoa02a.kinstacdn.com/wp-content/uploads/2020/05/EYvN3ynVcAETZUx.jpeg)
 ::::::
 :::
+
 
 
 ::: {.columns}
@@ -27,9 +29,11 @@ NASA's [Moon to Mars](https://www.nasa.gov/topics/moon-to-mars/overview) Program
 ::::::
 :::
 
+
 ::: {.fragment .grow}
 Space could be a $1 trillion industry by 2040!
 :::
+
     
 
 ::: notes
@@ -47,6 +51,7 @@ Space could be a $1 trillion industry by 2040!
 
 :::
 
+--------------------------------------------------------------------------------
 
 ## Inspiring The Next Generation {.scrollable}
 
@@ -80,6 +85,7 @@ Space could be a $1 trillion industry by 2040!
 :::
 
 
+--------------------------------------------------------------------------------
 
 ## A New Colony?
 
@@ -91,11 +97,11 @@ What would we do on Mars/the Moon?
 - Resource Extraction
 - Habitation
 ::::::
+
 :::::: {.column width=45%}
 ![[NASA SEArch+/Apis Cor]{.credit}](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/spacexarch_final.jpg)
 ::::::
 :::
-
 
 
 ::: {style="font-size:0.7em"}
@@ -107,33 +113,75 @@ What would we do on Mars/the Moon?
 
 
 
-## The Pale Blue Dot
 
-![](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png){style="margin:0"}
 
-<audio
-    controls
-    width="100%" >
-    <source
-        type='audio/mp3'
-        title="The pale blue dot : short recording "
-        src="https://tile.loc.gov/storage-services/media/ls/sagan/1958124-3-1.mp3"/>
-</audio>
+# Who Gets to Go to Space? 
 
-::: {.credit style="bottom:1.6%; right:27%"}
-Carl Sagan's *The Pale Blue Dot*. Library of Congress.  
--3:20
+--------------------------------------------------------------------------------
+
+## Space-Age Visions of the Future {.scrollable}
+
+![To Mars, from [Dark Roasted Blend](http://www.darkroastedblend.com/2012/06/rare-wonderful-1950s-space-art.html)](http://lh3.googleusercontent.com/-mvfotsMtzig/T-FXyvJzxDI/AAAAAAAB9kA/l4jlEmAoOos/s900/f22.jpg){width=40em}
+
+
+::: {.columns}
+:::::: {.column width=50%}
+![](http://lh5.googleusercontent.com/-zdifLqWdLAQ/T-FXQmR1nCI/AAAAAAAB9hg/dunhCzU9cWI/s900/f2.jpg)
+
+![[Ed Emshwiller]{.credit}](http://lh5.googleusercontent.com/_hVOW2U7K4-M/SvziW2Gd44I/AAAAAAABMbA/wCdaWdV3VII/s800/ed_emshwiller_have_spacesuit_will_travel.jpg)
+
+![[Lou Cameron]{.credit}](http://lh6.googleusercontent.com/-D3TWWD9pR-E/T-FXuYHLsMI/AAAAAAAB9jY/CMedlQ1JZtc/s900/f17.jpg)
+::::::
+
+
+:::::: {.column width=50%}
+
+![[Groff Conklin]{.credit}](http://lh6.googleusercontent.com/-BRVkdxoHpnU/T-FXsTeHzrI/AAAAAAAB9jI/knVtTLlqEFQ/s900/f15.jpg)
+
+![[Robert Lesser]{.credit}](http://lh3.googleusercontent.com/-fPE570TenE4/T-FXtR3Ec-I/AAAAAAAB9jQ/KQLq8NTYZLo/s900/f16.jpg)
+
+![](http://lh3.googleusercontent.com/_hVOW2U7K4-M/S3jssfS5BNI/AAAAAAABP0w/2Aw1LVIXA88/s800/ee45yew5yerhyerhreh.jpg)
+::::::
 :::
 
+--------------------------------------------------------------------------------
 
 ## {data-background-iframe="https://archive.org/embed/CMP306_Reflections.wmv&autoplay=1&start=826&end=830"}
 
+## The NASA Art Program {.scrollable}
 
-## {.scrollable}
+::: {.columns}
+:::::: {.column width=50%}
+![[Mitchell Jamieson, 1963]{.credit}](https://live.staticflickr.com/3698/8972300017_7bc2fe40ee_c.jpg)
+::::::
+:::::: {.column width=50%}
+![[Norman Rockwell, 1965]{.credit}](https://live.staticflickr.com/3703/8972300105_08530cae95_c.jpg)
+::::::
+:::
 
-![Political Science](https://www.nap.edu/openbook/13227/xhtml/images/p-35-1.jpg)
+![](http://cdn8.openculture.com/2019/09/09221321/SunRaNASA.jpg)
 
-![](https://archive.org/download/MSFC-0100727/0100727.jpg)
+# Feel Good Ending
+
+--------------------------------------------------------------------------------
+
+## Space Agencies Follow Suit
+
+::: {.fragment .current-visible .preload}
+::: {.columns}
+:::::: {.column width=50%}
+![[Rocosmos]{.credit} Arnaldo Tamayo Méndez (1980)](https://www.roscosmos.ru/media/gallery/big/26625/5119043683.jpg)
+::::::
+:::::: {.column width=50%}
+![[NASA]{.credit} Guion Stewart Bluford (1983)](https://upload.wikimedia.org/wikipedia/commons/d/d9/Bluford_on_Treadmill_-_GPN-2000-001078.jpg)
+
+::::::
+:::
+:::
+
+
+
+![[Robert Markowitz, NASA]{.credit} Leland Melvin (2008)](https://upload.wikimedia.org/wikipedia/commons/8/80/NASA_astronaut_Leland_D._Melvin_with_his_dogs_Jake_and_Scout.jpg){.fragment width=20em}
 
 #
 
@@ -170,9 +218,20 @@ Carl Sagan's *The Pale Blue Dot*. Library of Congress.
 ::::::
 :::
 
+
+
+
+
 # Three Pioneers of Afrofuturism
 
+
+
+
+
+
 # Sun Ra
+
+--------------------------------------------------------------------------------
 
 ## Astro Black
 
@@ -203,7 +262,6 @@ Carl Sagan's *The Pale Blue Dot*. Library of Congress.
 
 ![](http://blackstothefuture.com/en/wp-content/uploads/sites/3/2017/04/Sun-Ra-Arkestra-singer-June-Tyson-Berliner-JazztageBerlinGermany-november-1971..jpg)
 
-![](http://cdn8.openculture.com/2019/09/09221321/SunRaNASA.jpg)
 
 ##
 
@@ -252,3 +310,28 @@ Carl Sagan's *The Pale Blue Dot*. Library of Congress.
 - https://www.youtube.com/watch?v=iQjgprCVrcQ
 
 # Extra
+
+
+## The Pale Blue Dot
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png){style="margin:0"}
+
+<audio
+    controls
+    width="100%" >
+    <source
+        type='audio/mp3'
+        title="The pale blue dot : short recording "
+        src="https://tile.loc.gov/storage-services/media/ls/sagan/1958124-3-1.mp3"/>
+</audio>
+
+::: {.credit style="bottom:1.6%; right:27%"}
+Carl Sagan's *The Pale Blue Dot*. Library of Congress.  
+-3:20
+:::
+
+## {.scrollable}
+
+![Political Science](https://www.nap.edu/openbook/13227/xhtml/images/p-35-1.jpg)
+
+![](https://archive.org/download/MSFC-0100727/0100727.jpg)
