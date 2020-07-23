@@ -1,6 +1,14 @@
+---
+title: The Black Man in the Cosmos
+author: Cail Daley
+date: Astronomy on Tap---July 23, 2020
+---
+
 # Space in the Future
 
+
 --------------------------------------------------------------------------------
+
 
 ## A New Era?
 
@@ -90,25 +98,44 @@ Space could be a $1 trillion industry by 2040!
 ## A New Colony?
 
 ::: {.columns}
-:::::: {.column width=55%, style="margin-top:1.5em"}
+:::::: {.column width=50%}
+
 What would we do on Mars/the Moon?
 
-- Scientific Research
-- Resource Extraction
-- Habitation
-::::::
-
-:::::: {.column width=45%}
 ![[NASA SEArch+/Apis Cor]{.credit}](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/spacexarch_final.jpg)
+
+Research? Mining? Habitation?
+
+::::::
+:::::: {.column width=50%}
+
+::: {style="font-size:0.8em; margin-top:3.15em;" }
+> There's a matter of inclusion---space exploration is something that we all take part in.  
+:::
+
+<div>[--- Lucianne Walkowicz]{.credit} [NASA/Library of Congress Astrobiologist]{.credit}</div>
+
+
+::: {.columns style="margin-top:1em; margin-left:0.4em;"}
+:::::: {.column width=68%}
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Kalpana Chawla was a hero in India, and like so many kids growing up in the 90s, I wanted to be like her. <br><br>Immigrant, engineer, astronaut. <br><br>I wrote about her in my college entrance essay. (1/n)</p>&mdash; Gautham Narayan (@gsnarayan) <a href="https://twitter.com/gsnarayan/status/1091403515719806977?ref_src=twsrc%5Etfw">February 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+::::::
+:::::: {.column width=32%}
+![[NASA]{.credit}](https://upload.wikimedia.org/wikipedia/commons/9/9c/Kalpana_Chawla%2C_NASA_photo_portrait_in_orange_suit.jpg)
 ::::::
 :::
 
 
-::: {style="font-size:0.7em"}
-> [S]pace exploration is something that we all take part in... We have to think about the way we talk about who goes to space—who’s included in the conversation in who’s not. One of the fundamental things to do is just include [those normally left out of these discussions] in the conversation in a real way, such that they’re actually listened to.
-> --- Lucianne Walkowicz, NASA/Library of Congress Chair in Astrobiology
+::::::
 :::
 
+
+
+
+
+::: notes
+> There’s a matter of inclusion—space exploration is something that we all take part in. That’s true of public missions and not private companies. Their aims are often different from what people think about. We have to think about the way we talk about who goes to space—who’s included in the conversation in who’s not. One of the fundamental things to do is just include [those normally left out of these discussions] in the conversation in a real way, such that they’re actually listened to.
+:::
 
 
 
@@ -148,7 +175,8 @@ What would we do on Mars/the Moon?
 
 ## {data-background-iframe="https://archive.org/embed/CMP306_Reflections.wmv&autoplay=1&start=826&end=830"}
 
-## The NASA Art Program {.scrollable}
+## The NASA Art Program
+
 
 ::: {.columns}
 :::::: {.column width=50%}
@@ -159,7 +187,75 @@ What would we do on Mars/the Moon?
 ::::::
 :::
 
-![](http://cdn8.openculture.com/2019/09/09221321/SunRaNASA.jpg)
+## An Opportunity Missed {.scrollable}
+
+![](http://cdn8.openculture.com/2019/09/09221321/SunRaNASA.jpg){.fragment .current-visible .preload}
+
+::: {.columns .fragment .current-visible}
+:::::: {.column width=35%}
+![[Ross Murray (2020)]{.credit}](images/space_is_the_place_poster.jpg)
+::::::
+:::::: {.column width=50% style="margin-top:5em"}
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">This is my view on the race for space. We&#39;ll never get it until we Americans, collectively and individually get us a new sound. A new sound of harmony, brotherly love, common respect and consideration for the dignity and freedom of men and woman. <br>(Sun Ra)</p>&mdash; Sun Ra Arkestra (@SunRaUniverse) <a href="https://twitter.com/SunRaUniverse/status/1285826874447462400?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+::::::
+:::
+
+
+
+# Two Black Visions of Space
+
+## Sun Ra (1914-1993)
+
+::: {.columns}
+:::::: {.column width=60%}
+
+
+#### Trip to Saturn (1936?)
+
+::: {style="font-size:0.7em"}
+> I landed on a planet that I identified as Saturn...   
+> They teleported me and I was down on [a] stage with them.  
+> They had one little antenna on each ear. A little antenna over each eye. They talked to me.
+> I would speak [through music], and the world would listen. That's what they told me.
+:::
+
+![](images/sun_ra_concert.jpg){width=14em}
+
+::::::
+:::::: {.column width=40%}
+
+<!-- ![](https://66.media.tumblr.com/2df24b7394ce305e45f39c82c1e77f4e/tumblr_inline_nvw9wxXMvo1sivo48_500.jpg) -->
+
+![[Brian Eno (Twitter)]{.credit}](https://pbs.twimg.com/media/Cqqt2rmUAAA7oZ-?format=jpg&name=large){width=12em}
+::::::
+:::
+
+
+::: notes
+
+
+- Born & Raised in Birmingham, Alabama
+- can't stress enough--he was a true intellectual/thinker
+
+::: {style="text-align:left; margin-bottom:1em"}
+A pioneer of Jazz:
+
+- free improvisation, modal & space jazz
+- early adopter of keyboards, synthesizers
+- 1000+ songs, 100+ albums
+:::
+
+::: {style="font-size:0.7em"}
+> My whole body changed into something else. I could see through myself. And I went up... I wasn't in human form... I landed on a planet that I identified as Saturn... they teleported me and I was down on [a] stage with them. They wanted to talk with me. They had one little antenna on each ear. A little antenna over each eye. They talked to me. They told me to stop [attending college] because there was going to be great trouble in schools... the world was going into complete chaos... I would speak [through music], and the world would listen. That's what they told me.[15]
+:::
+
+- Alien Encounter was years before depictions of flying saucers and alien abductions (if chronologically   accurate)
+:::
+
+## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=108&end=185&autoplay=1&rel=0"}
+
+## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=1345&autoplay=1"}
+
 
 # Feel Good Ending
 
@@ -183,7 +279,7 @@ What would we do on Mars/the Moon?
 
 ![[Robert Markowitz, NASA]{.credit} Leland Melvin (2008)](https://upload.wikimedia.org/wikipedia/commons/8/80/NASA_astronaut_Leland_D._Melvin_with_his_dogs_Jake_and_Scout.jpg){.fragment width=20em}
 
-#
+##
 
 ::: {.columns}
 :::::: {.column width=18.3% .fragment  data-fragment-index=0}
@@ -222,14 +318,6 @@ What would we do on Mars/the Moon?
 
 
 
-# Three Pioneers of Afrofuturism
-
-
-
-
-
-
-# Sun Ra
 
 --------------------------------------------------------------------------------
 
@@ -241,22 +329,18 @@ What would we do on Mars/the Moon?
 
 
 
-## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=108&end=185&autoplay=1&rel=0"}
 
-## {data-background-iframe="https://www.youtube.com/embed/AMMWNwVhq5k?start=141&autoplay=1"}
-
-## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=1345&autoplay=1"}
+<!-- ## {data-background-iframe="https://www.youtube.com/embed/AMMWNwVhq5k?start=141&autoplay=1"} -->
 
 ## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=4654&autoplay=1"}
 
 
 ## {.scrollable}
 
-![](https://66.media.tumblr.com/2df24b7394ce305e45f39c82c1e77f4e/tumblr_inline_nvw9wxXMvo1sivo48_500.jpg)
+![](https://66.media.tumblr.com/107100207fbca608c6f1f7fe503ccfda/tumblr_msyne6xEN91sco8h8o1_400.jpg)
 
 ![](https://d16kd6gzalkogb.cloudfront.net/magazine_images/Sun-Ra.jpg)
 
-![](https://66.media.tumblr.com/107100207fbca608c6f1f7fe503ccfda/tumblr_msyne6xEN91sco8h8o1_400.jpg)
 
 ![](https://dangerousminds.net/content/uploads/images/made/content/uploads/images/sunra1971lkjlkjkljpqoiu_465_465_int.jpg)
 

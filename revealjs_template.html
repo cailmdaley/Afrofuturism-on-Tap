@@ -49,10 +49,19 @@ $endfor$
 
 $if(title)$
 <section id="$idprefix$title-slide"$for(title-slide-attributes/pairs)$ $it.key$="$it.value$"$endfor$>
-  <h1 class="title">$title$</h1>
+  <h1 class="title" style="font-size: 2.5em;">$title$</h1>
 $if(subtitle)$
   <p class="subtitle">$subtitle$</p>
 $endif$
+
+<div class="columns">
+<div class="column" style="width:30%;">
+<p><img data-src="https://dangerousminds.net/content/uploads/images/made/content/uploads/images/sunra1971lkjlkjkljpqoiu_465_465_int.jpg" /></p>
+</div><div class="column" style="width:30%;">
+<p><img data-src="https://images-na.ssl-images-amazon.com/images/I/91H5uzqlvgL._SL1500_.jpg" /></p>
+</div>
+</div>
+
 $for(author)$
   <p class="author">$author$</p>
 $endfor$

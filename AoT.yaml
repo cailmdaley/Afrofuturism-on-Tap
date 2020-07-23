@@ -8,10 +8,6 @@ css:
 
 slide-level: 2
 
-metadata:
-    title: AoT
-    author: Cail Daley
-
 standalone:   true
 # self-contained:   true
 

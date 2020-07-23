@@ -49,3 +49,8 @@ figcaption {
     padding-bottom: 0.5em;
     display: block;
 }
+
+.reveal blockquote { 
+    width: 95%;
+    margin-bottom: 5px;
+}
