@@ -274,9 +274,11 @@ A pioneer of Jazz:
 - Two clips: opening scene, then his appearance & speech to a black community center
 :::
 
-## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=108&end=185&autoplay=1&rel=0"}
+<!-- ## {data-background-iframe="https://www.youtube.com/embed/7iAQCPmpSUI?start=108&end=185&autoplay=1&rel=0"} -->
+## {data-background-iframe="https://www.youtube-nocookie.com/embed/4sOIs1u8iwg?start=75&end=152&autoplay=1&rel=0"}
 
-## {data-background-iframe="https://www.youtube.com/embed/bCalqwsicls?start=1405&autoplay=1"}
+
+## {data-background-iframe="https://www.youtube-nocookie.com/embed/okEFloBF9MM?autoplay=1"}
 
 ## Parliament-Funkadelic
 
@@ -286,7 +288,7 @@ A pioneer of Jazz:
 ![[\ ]{.credit}](https://images-na.ssl-images-amazon.com/images/I/91H5uzqlvgL._SL1500_.jpg)
 ::::::
 :::::: {.column width=50%}
-![[Bruce W. Talamon © 2018 All Rights Reserved]{.credit}](https://storage.googleapis.com/assets-pam-blog/2020/02/3f72d1d9-parliament-funkadelics-george-clinton-chocolate-city.jpg)
+![[Bruce W. Talamon © 2018 All Rights Reserved]{.credit}](https://pan-african-music.com/wp-content/uploads/2020/02/3f72d1d9-parliament-funkadelics-george-clinton-chocolate-city.jpg)
 ::::::
 :::
 
@@ -339,7 +341,7 @@ A pioneer of Jazz:
 
 ![](https://i.ytimg.com/vi/14ag7iqoOLg/maxresdefault.jpg){style="width:85%; margin:0 auto;"}
 
-![](https://cnet3.cbsistatic.com/img/1oFm57ohOqdGjyLl_yYtFQFwuSw=/756x425/2018/02/16/f7f1bbd5-d8a7-4376-8f8d-df33cd988c84/black-panther-marvel-1.jpg){style="width:70%; margin:0 auto;" .fragment data-fragment-index=2}
+![](https://i0.wp.com/superheronews.com/wp-content/uploads/2017/10/BlackPanther59e4d0718bfec.jpg){style="width:81%; margin:0 auto;" .fragment data-fragment-index=2}
 
 :::::::::
 ::::::::: {.column width=22% .fragment data-fragment-index=1}
