@@ -214,7 +214,7 @@ Decolonizing Mars
 :::::: {.column width=35%}
 ![[Ross Murray (2020)]{.credit}](images/space_is_the_place_poster.jpg)
 ::::::
-:::::: {.column width=50% style="margin-top:5em"}
+:::::: {.column style="width:50%; margin-top:5em"}
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">This is my view on the race for space. We&#39;ll never get it until we Americans, collectively and individually get us a new sound. A new sound of harmony, brotherly love, common respect and consideration for the dignity and freedom of men and woman. <br>(Sun Ra)</p>&mdash; Sun Ra Arkestra (@SunRaUniverse) <a href="https://twitter.com/SunRaUniverse/status/1285826874447462400?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ::::::
 :::
@@ -368,7 +368,7 @@ All free on YouTube:
 
 Sun Ra:
 
-- Space is the Place [movie](https://www.youtube.com/watch?v=bCalqwsicls)
+- Space is the Place [movie](https://www.youtube.com/watch?v=LyMAu1goIMU)
 - Sun Ra---A Joyful Noise [documentary](https://www.youtube.com/watch?v=7Esmjx8eVcE)
 - Space is the Place [song](https://www.youtube.com/watch?v=bCalqwsicls)
 - Sleeping Beauty [album](https://www.youtube.com/watch?v=Ipohbylz7Z4)
